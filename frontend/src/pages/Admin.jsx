@@ -93,13 +93,13 @@ const Admin = () => {
 
     try {
       if (editingId) {
-        await fetch(`https://coggennutrition.onrender.com/${editingId}`, {
+        await fetch(`https://coggennutrition.onrender.com/api/products/${editingId}`, {
           method: 'PUT',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(formattedData)
         });
       } else {
-        await fetch('https://coggennutrition.onrender.com', {
+        await fetch('https://coggennutrition.onrender.com/api/products', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(formattedData)
@@ -116,7 +116,7 @@ const Admin = () => {
   const handleDelete = async (id) => {
     if (window.confirm('Are you sure you want to delete this product?')) {
       try {
-        await fetch(`https://coggennutrition.onrender.com/${id}`, { method: 'DELETE' });
+        await fetch(`https://coggennutrition.onrender.com/api/products/${id}`, { method: 'DELETE' });
         refreshProducts();
       } catch (error) {
         console.error("Error deleting product:", error);

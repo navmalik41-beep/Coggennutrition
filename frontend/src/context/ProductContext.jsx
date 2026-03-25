@@ -12,7 +12,7 @@ export const ProductProvider = ({ children }) => {
   const fetchProducts = async () => {
     try {
       setLoading(true);
-      const res = await fetch('https://coggennutrition.onrender.com');
+      const res = await fetch('https://coggennutrition.onrender.com/api/products');
       if (!res.ok) throw new Error('Failed to fetch products');
       const data = await res.json();
       setProducts(data);
