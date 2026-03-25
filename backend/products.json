@@ -1,0 +1,649 @@
+[
+  {
+    "id": "1",
+    "name": "Whey Gold",
+    "category": "Proteins",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069750/WHEY_GOLD_atha0d.png",
+    "description": "Unlock your peak form with our premium Whey Gold. Sourced from the highest quality dairy, this fast-absorbing protein blend rapidly delivers essential amino acids to fuel muscle recovery and growth.",
+    "benefits": [
+      "Fast Muscle Recovery",
+      "High Biological Value",
+      "Lean Muscle Support"
+    ],
+    "ingredients": [
+      "Whey Protein Isolate",
+      "Whey Protein Concentrate",
+      "Cocoa Powder",
+      "Natural & Artificial Flavors",
+      "Sucralose"
+    ],
+    "usage": "Mix 1 scoop with 200-250ml of cold water or milk. Consume post-workout or as needed.",
+    "variants": [
+      {
+        "size": "1kg",
+        "price": 3499
+      },
+      {
+        "size": "2kg",
+        "price": 6899
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alex M.",
+        "rating": 5,
+        "comment": "I've been using this for 3 months now and the gains have been fantastic. Mixes perfectly without any clumps and tastes amazing compared to other premium brands."
+      },
+      {
+        "name": "Chris L.",
+        "rating": 4,
+        "comment": "Does exactly what it says. Good stuff but slightly pricey. Still worth it for the quality."
+      },
+      {
+        "name": "John P.",
+        "rating": 5,
+        "comment": "Best supplement I have ever purchased. Highly recommended to anyone serious about their physique."
+      }
+    ],
+    "stock": 15
+  },
+  {
+    "id": "2",
+    "name": "Isolate Whey",
+    "category": "Proteins",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069744/ISOLATE_rcglqx.png",
+    "description": "Maximum purity for maximum gains. Our Isolate Whey undergoes advanced microfiltration to remove excess carbs and fats, leaving you with pure, lean protein to power your harshest training sessions.",
+    "benefits": [
+      "Zero Sugar",
+      "Rapid Absorption",
+      "Lactose Friendly"
+    ],
+    "ingredients": [
+      "Whey Protein Isolate",
+      "Natural Flavors",
+      "Lecithin",
+      "Stevia Extract"
+    ],
+    "usage": "Mix 1 scoop with 250ml of water. Best taken immediately after exercise.",
+    "variants": [
+      {
+        "size": "1kg",
+        "price": 4599
+      },
+      {
+        "size": "2kg",
+        "price": 8999
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alex M.",
+        "rating": 5,
+        "comment": "I've been using this for 3 months now and the gains have been fantastic. Mixes perfectly without any clumps and tastes amazing compared to other premium brands."
+      }
+    ],
+    "stock": 19
+  },
+  {
+    "id": "3",
+    "name": "Interval Whey",
+    "category": "Proteins",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069744/INTRVL_vmkii9.png",
+    "description": "Engineered for sustained release, Interval Whey ensures your muscles receive a steady flow of nutrients throughout the day, preventing catabolism and promoting continuous anabolism.",
+    "benefits": [
+      "Sustained Release",
+      "Anti-Catabolic",
+      "Rich Flavor"
+    ],
+    "ingredients": [
+      "Whey Protein Concentrate",
+      "Micellar Casein",
+      "Milk Protein Isolate",
+      "Cocoa Processing"
+    ],
+    "usage": "Mix 1 scoop in 300ml water or milk. Ideal between meals or before bed.",
+    "variants": [
+      {
+        "size": "1kg",
+        "price": 2999
+      },
+      {
+        "size": "6 LBS",
+        "price": 5799
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Chris L.",
+        "rating": 4,
+        "comment": "Does exactly what it says. Good stuff but slightly pricey. Still worth it for the quality."
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "comment": "Game changer for my workout routine. Energy levels are consistent and I'm seeing sustained growth."
+      },
+      {
+        "name": "David R.",
+        "rating": 5,
+        "comment": "You can immediately tell the quality is there. No bloating, easy digestion, and recovery times have noticeably improved."
+      }
+    ],
+    "stock": 8
+  },
+  {
+    "id": "4",
+    "name": "Hulk Mass Gainer",
+    "category": "Weight Gainers",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069743/HULK_MASS_GAINER_savazm.png",
+    "description": "Transform your physique with Hulk Mass Gainer. Packed with complex carbs and premium protein, it delivers a massive calorie surplus optimized for hard gainers who want raw size.",
+    "benefits": [
+      "Explosive Mass",
+      "High Calorie Density",
+      "Added Creatine"
+    ],
+    "ingredients": [
+      "Maltodextrin",
+      "Whey Protein Concentrate",
+      "Creatine Monohydrate",
+      "Vitamins Blend"
+    ],
+    "usage": "Blend 3 scoops with 500ml of whole milk. Consume between meals.",
+    "variants": [
+      {
+        "size": "1kg",
+        "price": 1699
+      },
+      {
+        "size": "6lbs",
+        "price": 4199
+      },
+      {
+        "size": "5kg",
+        "price": 7199
+      }
+    ],
+    "reviews": [
+      {
+        "name": "David R.",
+        "rating": 5,
+        "comment": "You can immediately tell the quality is there. No bloating, easy digestion, and recovery times have noticeably improved."
+      },
+      {
+        "name": "Alex M.",
+        "rating": 5,
+        "comment": "I've been using this for 3 months now and the gains have been fantastic. Mixes perfectly without any clumps and tastes amazing compared to other premium brands."
+      }
+    ],
+    "stock": 7
+  },
+  {
+    "id": "5",
+    "name": "Premium Mass Gainer",
+    "category": "Weight Gainers",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069744/MASS_GAINER_woofbm.png",
+    "description": "The elite formula for serious bulk. With clean carb sources and a multi-phase protein matrix, Premium Mass Gainer helps you put on quality size without excessive sugar.",
+    "benefits": [
+      "Clean Calories",
+      "Muscle Density",
+      "Rich in BCAAs"
+    ],
+    "ingredients": [
+      "Oat Flour",
+      "Whey Protein Blend",
+      "MCT Oil Powder",
+      "Digestive Enzymes"
+    ],
+    "usage": "Mix 2 scoops with 400ml water post-workout.",
+    "variants": [
+      {
+        "size": "1kg",
+        "price": 1899
+      },
+      {
+        "size": "3kg",
+        "price": 4599
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alex M.",
+        "rating": 5,
+        "comment": "I've been using this for 3 months now and the gains have been fantastic. Mixes perfectly without any clumps and tastes amazing compared to other premium brands."
+      }
+    ],
+    "stock": 15
+  },
+  {
+    "id": "6",
+    "name": "Martin Gainz",
+    "category": "Weight Gainers",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069745/MARTIN_GAINZ_p2t4pv.png",
+    "description": "A high-calorie powerhouse designed to break through plateaus. Martin Gainz fuels your muscles with the exact macronutrient ratio needed for formidable growth and strength.",
+    "benefits": [
+      "Plateau Breaker",
+      "Enhanced Strength",
+      "Delicious Taste"
+    ],
+    "ingredients": [
+      "Carb Complex",
+      "Premium Protein Matrix",
+      "L-Glutamine",
+      "Natural Flavors"
+    ],
+    "usage": "Mix 2 heaping scoops with water or milk twice daily.",
+    "variants": [
+      {
+        "size": "3kg",
+        "price": 4299
+      },
+      {
+        "size": "5kg",
+        "price": 6899
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alex M.",
+        "rating": 5,
+        "comment": "I've been using this for 3 months now and the gains have been fantastic. Mixes perfectly without any clumps and tastes amazing compared to other premium brands."
+      }
+    ],
+    "stock": 14
+  },
+  {
+    "id": "7",
+    "name": "Muscle Juice",
+    "category": "Weight Gainers",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069745/MUSCLE_JUICE_qq3xiq.png",
+    "description": "The ultimate caloric dense shake for extreme mass. Muscle Juice provides an optimal blend of proteins, complex carbs, and healthy fats to support your heaviest lifting phases.",
+    "benefits": [
+      "Extreme Mass",
+      "Healthy Fats",
+      "Rapid Recovery"
+    ],
+    "ingredients": [
+      "Maltodextrin",
+      "Protein Blend",
+      "High Oleic Sunflower Oil",
+      "Flavoring"
+    ],
+    "usage": "Blend 2-3 scoops with milk post-workout and between meals.",
+    "variants": [
+      {
+        "size": "1kg",
+        "price": 1899
+      },
+      {
+        "size": "6lbs",
+        "price": 4299
+      },
+      {
+        "size": "5kg",
+        "price": 7599
+      }
+    ],
+    "reviews": [
+      {
+        "name": "John P.",
+        "rating": 5,
+        "comment": "Best supplement I have ever purchased. Highly recommended to anyone serious about their physique."
+      }
+    ],
+    "stock": 16
+  },
+  {
+    "id": "8",
+    "name": "Creatine",
+    "category": "Performance",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069743/CREATINE_a1webr.png",
+    "description": "Unleash raw power and stamina. Our pure Creatine Monohydrate replenishes your ATP levels rapidly, leading to increased strength, endurance, and better overall training performance.",
+    "benefits": [
+      "Increased Strength",
+      "Enhanced Endurance",
+      "Muscle Fullness"
+    ],
+    "ingredients": [
+      "100% Pure Creatine Monohydrate"
+    ],
+    "usage": "Take 1 scoop (5g) mixed with water or juice before or after workout.",
+    "variants": [
+      {
+        "size": "100g",
+        "price": 699
+      },
+      {
+        "size": "250g",
+        "price": 1599
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alex M.",
+        "rating": 5,
+        "comment": "I've been using this for 3 months now and the gains have been fantastic. Mixes perfectly without any clumps and tastes amazing compared to other premium brands."
+      },
+      {
+        "name": "David R.",
+        "rating": 5,
+        "comment": "You can immediately tell the quality is there. No bloating, easy digestion, and recovery times have noticeably improved."
+      }
+    ],
+    "stock": 14
+  },
+  {
+    "id": "9",
+    "name": "Glutamine",
+    "category": "Recovery",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069743/GLUTAMINE_dazvld.png",
+    "description": "Accelerate your recovery window. Glutamine is the most abundant amino acid in muscle tissue, crucial for immune function, gut health, and rapid muscle repair after heavy lifting.",
+    "benefits": [
+      "Faster Recovery",
+      "Immune Support",
+      "Gut Health"
+    ],
+    "ingredients": [
+      "100% Pure L-Glutamine Powder"
+    ],
+    "usage": "Mix 1 scoop (5g) with water. Take post-workout and before bed.",
+    "variants": [
+      {
+        "size": "250g",
+        "price": 1599
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alex M.",
+        "rating": 5,
+        "comment": "I've been using this for 3 months now and the gains have been fantastic. Mixes perfectly without any clumps and tastes amazing compared to other premium brands."
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "comment": "Game changer for my workout routine. Energy levels are consistent and I'm seeing sustained growth."
+      },
+      {
+        "name": "Sarah K.",
+        "rating": 4,
+        "comment": "Excellent profile and great results. The flavor is a bit strong for me, but overall top-tier quality!"
+      }
+    ],
+    "stock": 13
+  },
+  {
+    "id": "10",
+    "name": "Amino Advance",
+    "category": "Recovery",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069743/AMINO_ADVANCE_jpeers.png",
+    "description": "A comprehensive essential amino acid complex. Amino Advance hydrates your muscles intra-workout and kickstarts the anabolism process, ensuring no workout is ever wasted.",
+    "benefits": [
+      "Intra-Workout Hydration",
+      "Anabolic Trigger",
+      "Reduced Fatigue"
+    ],
+    "ingredients": [
+      "BCAAs 2:1:1",
+      "EAAs Complex",
+      "Electrolyte Blend",
+      "Citric Acid"
+    ],
+    "usage": "Mix 1 scoop with 500ml water and sip during your workout.",
+    "variants": [
+      {
+        "size": "250g",
+        "price": 1799
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah K.",
+        "rating": 4,
+        "comment": "Excellent profile and great results. The flavor is a bit strong for me, but overall top-tier quality!"
+      },
+      {
+        "name": "David R.",
+        "rating": 5,
+        "comment": "You can immediately tell the quality is there. No bloating, easy digestion, and recovery times have noticeably improved."
+      },
+      {
+        "name": "Chris L.",
+        "rating": 4,
+        "comment": "Does exactly what it says. Good stuff but slightly pricey. Still worth it for the quality."
+      }
+    ],
+    "stock": 11
+  },
+  {
+    "id": "11",
+    "name": "Rush Mode",
+    "category": "Pre-Workout",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069749/RUSH_MODE_ec95xh.png",
+    "description": "Ignite your senses and fuel your performance. Rush Mode is an intense pre-workout formula designed to provide laser focus, surging energy, and sustained endurance without the crash.",
+    "benefits": [
+      "Intense Energy",
+      "Laser Focus",
+      "No Crash Formulation"
+    ],
+    "ingredients": [
+      "Caffeine Anhydrous",
+      "Beta-Alanine",
+      "L-Citrulline",
+      "Taurine"
+    ],
+    "usage": "Mix 1 scoop with 200ml water 20 minutes prior to training.",
+    "variants": [
+      {
+        "size": "300g",
+        "price": 1999
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "comment": "Game changer for my workout routine. Energy levels are consistent and I'm seeing sustained growth."
+      }
+    ],
+    "stock": 7
+  },
+  {
+    "id": "12",
+    "name": "Toofan",
+    "category": "Pre-Workout",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069750/TOOFAN_babnby.png",
+    "description": "Experience the storm. Toofan is the ultimate energy powerhouse crafted for elite athletes, delivering explosive power, heightened alertness, and incredible stamina for rigorous sessions.",
+    "benefits": [
+      "Explosive Power",
+      "Heightened Alertness",
+      "Skin Tearing Pumps"
+    ],
+    "ingredients": [
+      "Citrulline Malate",
+      "Caffeine",
+      "Agmatine Sulfate",
+      "Electrolytes"
+    ],
+    "usage": "Mix 1 scoop with water 15-20 min before workout. Start with half scoop.",
+    "variants": [
+      {
+        "size": "300g",
+        "price": 2099
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Emma W.",
+        "rating": 5,
+        "comment": "Incredible! Digestion is super easy, no stomach issues at all. Will definitely restock."
+      },
+      {
+        "name": "David R.",
+        "rating": 5,
+        "comment": "You can immediately tell the quality is there. No bloating, easy digestion, and recovery times have noticeably improved."
+      },
+      {
+        "name": "Chris L.",
+        "rating": 4,
+        "comment": "Does exactly what it says. Good stuff but slightly pricey. Still worth it for the quality."
+      }
+    ],
+    "stock": 19
+  },
+  {
+    "id": "13",
+    "name": "Pump X",
+    "category": "Pre-Workout",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069745/PUMP_X_xa4czi.png",
+    "description": "Maximize your vascularity. Pump X is a non-stimulant nitric oxide booster that enhances blood flow, delivering nutrients directly to working muscles for insane, sustained pumps.",
+    "benefits": [
+      "Non-Stimulant",
+      "Insane Vascularity",
+      "Enhanced Blood Flow"
+    ],
+    "ingredients": [
+      "Nitrosigine",
+      "L-Citrulline",
+      "Glycerol Powder",
+      "Vitamin C"
+    ],
+    "usage": "Mix 1 scoop with water 30 minutes before workout.",
+    "variants": [
+      {
+        "size": "300g",
+        "price": 1899
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Chris L.",
+        "rating": 4,
+        "comment": "Does exactly what it says. Good stuff but slightly pricey. Still worth it for the quality."
+      }
+    ],
+    "stock": 18
+  },
+  {
+    "id": "14",
+    "name": "Testo Max",
+    "category": "Wellness",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069749/TESTO_ulsohl.png",
+    "description": "Optimize your natural testosterone levels safely. Testo Max utilizes potent herbal extracts and essential minerals to boost vitality, mood, and muscle recovery natively from within.",
+    "benefits": [
+      "Natural Testosterone Boost",
+      "Enhanced Vitality",
+      "Mood Elevator"
+    ],
+    "ingredients": [
+      "Tribulus Terrestris",
+      "Ashwagandha",
+      "Zinc",
+      "Magnesium"
+    ],
+    "usage": "Take 2 capsules daily with a meal.",
+    "variants": [
+      {
+        "size": "60 Caps",
+        "price": 1499
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Chris L.",
+        "rating": 4,
+        "comment": "Does exactly what it says. Good stuff but slightly pricey. Still worth it for the quality."
+      },
+      {
+        "name": "David R.",
+        "rating": 5,
+        "comment": "You can immediately tell the quality is there. No bloating, easy digestion, and recovery times have noticeably improved."
+      },
+      {
+        "name": "Alex M.",
+        "rating": 5,
+        "comment": "I've been using this for 3 months now and the gains have been fantastic. Mixes perfectly without any clumps and tastes amazing compared to other premium brands."
+      }
+    ],
+    "stock": 15
+  },
+  {
+    "id": "15",
+    "name": "Omega Fish Oil",
+    "category": "Wellness",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069745/OMEGA_FISH_OIL_gcf0bq.png",
+    "description": "Essential support for heart, brain, and joint health. Our high-potency Omega Fish Oil provides crucial EPA and DHA fatty acids, rigorously filtered to remove heavy metals.",
+    "benefits": [
+      "Heart Health",
+      "Joint Support",
+      "Brain Function"
+    ],
+    "ingredients": [
+      "Fish Oil Concentrate (EPA/DHA)",
+      "Gelatin",
+      "Glycerin"
+    ],
+    "usage": "Take 1 softgel twice daily with meals.",
+    "variants": [
+      {
+        "size": "60 Softgels",
+        "price": 1099
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "comment": "Game changer for my workout routine. Energy levels are consistent and I'm seeing sustained growth."
+      },
+      {
+        "name": "Chris L.",
+        "rating": 4,
+        "comment": "Does exactly what it says. Good stuff but slightly pricey. Still worth it for the quality."
+      },
+      {
+        "name": "Alex M.",
+        "rating": 5,
+        "comment": "I've been using this for 3 months now and the gains have been fantastic. Mixes perfectly without any clumps and tastes amazing compared to other premium brands."
+      }
+    ],
+    "stock": 8
+  },
+  {
+    "id": "16",
+    "name": "Multivitamin",
+    "category": "Wellness",
+    "image": "https://res.cloudinary.com/drdjxhahj/image/upload/v1774069744/MULTI_VITAMIN_efhrzs.png",
+    "description": "Fill the gaps in your nutrition. Our comprehensive Multivitamin formula provides your body with essential daily vitamins and minerals required for optimal metabolism, immunity, and overall well-being.",
+    "benefits": [
+      "Full Spectrum Coverage",
+      "Immune Defense",
+      "Boosted Energy"
+    ],
+    "ingredients": [
+      "Vitamin A, C, D, E",
+      "B-Complex Base",
+      "Zinc",
+      "Iron"
+    ],
+    "usage": "Take 1 tablet daily with food.",
+    "variants": [
+      {
+        "size": "60 Tabs",
+        "price": 999
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Chris L.",
+        "rating": 4,
+        "comment": "Does exactly what it says. Good stuff but slightly pricey. Still worth it for the quality."
+      },
+      {
+        "name": "Emma W.",
+        "rating": 5,
+        "comment": "Incredible! Digestion is super easy, no stomach issues at all. Will definitely restock."
+      }
+    ],
+    "stock": 12
+  }
+]

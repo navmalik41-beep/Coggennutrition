@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-textPrimary font-sans antialiased overflow-x-hidden selection:bg-gold-500/30 selection:text-gold-400;
+  }
+}
+
+@layer utilities {
+  .glass-panel {
+    @apply bg-black/40 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl transition-all duration-300;
+  }
+  
+  .glass-card {
+    @apply bg-black/40 backdrop-blur-md border border-white/10 rounded-xl transition-all duration-300 hover:border-gold-500/50 hover:shadow-[0_0_20px_rgba(229,181,59,0.25)];
+  }
+  
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-gold-400 to-gold-600;
+  }
+  
+  .bg-hero { background-image: url('/images/hero_gym_bg.png'); background-size: cover; background-position: center; }
+  .bg-product { background-image: url('/images/product_gym_bg.png'); background-size: cover; background-position: center; }
+  .bg-fitness { background-image: url('/images/fitness_env_bg.png'); background-size: cover; background-position: center; }
+  
+  .bg-layer { @apply absolute inset-0 w-full h-full pointer-events-none mix-blend-normal; z-index: 0; }
+  .overlay-layer { @apply absolute inset-0 w-full h-full bg-black/75 pointer-events-none; z-index: 10; }
+  .content-layer { @apply relative; z-index: 20; }
+}
+
+/* Custom scrollbar for premium feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+::-webkit-scrollbar-thumb {
+  background: #2a2a2a;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #e5b53b;
+}
+
+/* Base styles for html and body */
+html, body, #root {
+  height: 100%;
+}
