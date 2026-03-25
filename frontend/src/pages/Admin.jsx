@@ -30,7 +30,7 @@ const Admin = () => {
 
   const handleLogin = (e) => {
     e.preventDefault();
-    const correctPassword = import.meta.env.VITE_ADMIN_PASSWORD || 'admin123';
+    const correctPassword = import.meta.env.VITE_ADMIN_PASSWORD || 'coggen123';
     if (passwordInput === correctPassword) {
       localStorage.setItem('coggenAdminAuth', 'true');
       setIsAuthenticated(true);
@@ -93,13 +93,13 @@ const Admin = () => {
 
     try {
       if (editingId) {
-        await fetch(`http://localhost:5000/api/products/${editingId}`, {
+        await fetch(`https://coggennutrition.onrender.com/${editingId}`, {
           method: 'PUT',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(formattedData)
         });
       } else {
-        await fetch('http://localhost:5000/api/products', {
+        await fetch('https://coggennutrition.onrender.com', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(formattedData)
@@ -116,7 +116,7 @@ const Admin = () => {
   const handleDelete = async (id) => {
     if (window.confirm('Are you sure you want to delete this product?')) {
       try {
-        await fetch(`http://localhost:5000/api/products/${id}`, { method: 'DELETE' });
+        await fetch(`https://coggennutrition.onrender.com/${id}`, { method: 'DELETE' });
         refreshProducts();
       } catch (error) {
         console.error("Error deleting product:", error);
