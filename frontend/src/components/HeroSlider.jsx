@@ -21,7 +21,7 @@ const HeroSlider = () => {
   }, []);
 
   return (
-    <div className="relative h-screen w-full overflow-hidden bg-black">
+    <div className="relative h-[80vh] md:h-screen w-full overflow-hidden bg-black">
       {/* Background Images with AnimatePresence for fade */}
       <AnimatePresence initial={false}>
         <motion.div
@@ -35,7 +35,7 @@ const HeroSlider = () => {
           <img 
             src={images[currentIndex]} 
             alt="Hero Background" 
-            className="w-full h-full object-cover object-center"
+            className="w-full h-full object-cover object-top md:object-center"
           />
         </motion.div>
       </AnimatePresence>
@@ -49,7 +49,7 @@ const HeroSlider = () => {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.5 }}
-          className="text-5xl md:text-7xl lg:text-8xl font-black text-white uppercase tracking-tighter mb-6"
+          className="text-3xl sm:text-4xl md:text-7xl lg:text-8xl font-black text-white uppercase tracking-tighter mb-6"
         >
           Design Your <br className="hidden md:block"/>
           <span className="text-gradient">Perfect Physique</span>
